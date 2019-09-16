@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | grep -i [c]
+sort | tr -d 'cC'
