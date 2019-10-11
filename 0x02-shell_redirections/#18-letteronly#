@@ -1,2 +1,0 @@
-/etc/ssh/sshd_config#!/bin/bash
-grep -w /etc/passwd
