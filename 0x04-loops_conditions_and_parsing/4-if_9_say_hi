@@ -5,13 +5,11 @@
 i=0
 while ((i < 10))
 do
-	if ((i != 8))
-	then
-	echo "holberton School"
-	fi
 	if ((i == 8))
 	then
 	echo "Hi"
+	else
+	echo "holberton School"
 	fi
 	let $((i++))
 done
