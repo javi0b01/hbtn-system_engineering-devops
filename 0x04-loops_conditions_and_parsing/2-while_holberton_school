@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 # Bash script that displays Holberton School 10 times.
-# You must use the for loop (while and until are forbidden)
-for ((i = 0; i < 10; i++))
+# You must use the while loop (for and until are forbidden)
+i="0"
+while [ $i -lt 10 ]
 do
 	echo "Holberton School"
+	i=$[$i + 1]
 done
