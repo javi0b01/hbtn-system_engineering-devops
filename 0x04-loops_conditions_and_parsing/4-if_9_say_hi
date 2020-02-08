@@ -7,9 +7,9 @@ while ((i < 10))
 do
 	if ((i == 8))
 	then
-	echo "Hi"
+		echo "Hi"
 	else
-	echo "holberton School"
+		echo "holberton School"
 	fi
 	let $((i++))
 done
