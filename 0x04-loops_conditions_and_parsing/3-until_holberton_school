@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Bash script that displays Holberton School 10 times.
+# You must use the until loop (for and while are forbidden)
+i=0
+until ((i == 10))
+do
+	echo "Holberton School"
+	let $((i++))
+done
