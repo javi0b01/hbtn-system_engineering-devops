@@ -8,5 +8,5 @@
 my_list=$(ls)
 for i in $my_list
 do
-	echo "$i" | cut -d- -f2
+	echo "$i" | cut -d - -f 2
 done
