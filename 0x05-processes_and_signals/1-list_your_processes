@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # shebang line - The first match in the $PATH environment variable.
 # Bash script that displays a list of currently running processes.
-ps -auxf
+ps -aux
