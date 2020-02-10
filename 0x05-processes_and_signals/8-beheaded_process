@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# shebang line - The first match in the $PATH environment variable.
+# Bash script that kills the process 7-highlander.
+kill -9 "$(pgrep -f "7-highlander")"
