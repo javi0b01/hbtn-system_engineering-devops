@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # shebang line - The first match in the $PATH environment variable.
-# Bash script that configures a new Ubuntu machine to respect ...
 sudo apt-get -y update
 sudo apt-get -y install nginx
 sudo echo "Holberton School for the win!" | sudo tee /var/www/html/index.html
