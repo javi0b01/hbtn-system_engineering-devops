@@ -4,5 +4,5 @@
 # sudo apt-get -y update
 # sudo apt-get -y install nginx
 # sudo echo "Holberton School for the win!" | sudo tee /var/www/html/index.html
-sudo sed -i "30i \\\trewrite ^/redirect_me https://tecnoayuda.co permanent;" /etc/nginx/sites-available/default
+sudo sed -i "30i \\\trewrite ^/redirect_me https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;" /etc/nginx/sites-available/default
 sudo service nginx restart
