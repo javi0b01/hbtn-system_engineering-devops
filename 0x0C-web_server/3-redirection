@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 # shebang line - The first match in the $PATH environment variable.
 # Redirection
-sudo apt-get -y update
-sudo apt-get -y install nginx
+# sudo apt-get -y update
+# sudo apt-get -y install nginx
 # sudo echo "Holberton School for the win!" | sudo tee /var/www/html/index.html
-new_string="server_name _;\n\trewrite ^\/redirect_me https://tecnoayuda.co permanent;"
-sed -i "s/server_name _;/$new_string/" /etc/nginx/sites-enabled/default
+sudo sed -i "30i \\\trewrite ^/redirect_me https://tecnoayuda.co permanent;" /etc/nginx/sites-available/default
 sudo service nginx restart
