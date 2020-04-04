@@ -20,7 +20,6 @@ Foundations - System engineering & DevOps ― Web stack debugging
 
 ## Developer
 Javier Andrés Garzón Patarroyo
-[website](https://tecnoayuda.co/)
+- [website](https://tecnoayuda.co/)
 
-###### :man_technologist:
-:books: :computer: :globe_with_meridians:
+:man_technologist: :books: :computer: :globe_with_meridians:
