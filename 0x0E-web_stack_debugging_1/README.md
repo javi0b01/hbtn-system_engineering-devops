@@ -19,7 +19,7 @@ by _Sylvain Kalache_
   - [5 commands](https://www.linux.com/training-tutorials/first-5-commands-when-i-connect-linux-server/)
   - [First 5 Commands When I Connect on a Linux Server](https://www.youtube.com/watch?v=1_gqlbADaAw&feature=youtu.be)
     - [uptime and downtime](https://whatis.techtarget.com/definition/uptime-and-downtime)
-    - [Understanding Linux CPU Load - when should you be worried?](https://scoutapm.com/blog/understanding-load-averages)
+    - [Understanding Linux CPU Load](https://scoutapm.com/blog/understanding-load-averages)
     - [Linux Load Averages](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
 
 ## Tasks
