@@ -15,7 +15,10 @@ In this debugging series, broken/bugged webstacks will be given to you, the fina
 ## Resources
 * [Network basics](https://intranet.hbtn.io/concepts/33)
 * [Docker](https://intranet.hbtn.io/concepts/65)
+  - [What is Docker and why is it popular?](https://www.zdnet.com/article/what-is-docker-and-why-is-it-so-darn-popular/)
 * [Web stack debugging](https://intranet.hbtn.io/concepts/68)
+  - [First 5 Commands When I Connect on a Linux Server](https://www.youtube.com/watch?v=1_gqlbADaAw&feature=youtu.be)
+  - [5 commands](https://www.linux.com/training-tutorials/first-5-commands-when-i-connect-linux-server/)
 * [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 * Installing Docker
   * [Mac OS](https://docs.docker.com/docker-for-mac/install/)
