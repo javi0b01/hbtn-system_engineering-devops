@@ -9,7 +9,14 @@ by _Sylvain Kalache_
 
 ## Resources
 * [Network basics](https://intranet.hbtn.io/concepts/33)
+  - [What is a protocol](https://searchnetworking.techtarget.com/definition/protocol)
+  - [What is an IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm)
+  - [What is TCP/IP](https://searchnetworking.techtarget.com/definition/TCP-IP)
+  - [What is an Internet Protocol (IP) port?](https://www.lifewire.com/port-numbers-on-computer-networks-817939)
+* [Docker](https://intranet.hbtn.io/concepts/65)
+  - [What is Docker and why is it popular?](https://www.zdnet.com/article/what-is-docker-and-why-is-it-so-darn-popular/)
 * [Web stack debugging](https://intranet.hbtn.io/concepts/68)
+  - [First 5 Commands When I Connect on a Linux Server](https://www.youtube.com/watch?v=1_gqlbADaAw&feature=youtu.be)
 
 ## Tasks
 * [x] 0. Nginx likes port 80
