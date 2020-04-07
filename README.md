@@ -19,11 +19,11 @@ At the end of this project, you are expected to be able to...
 * [x] 259 0x07. Networking basics #0
 * [x] 285 0x08. Networking basics #1
 * [x] 302 0x09. Web infrastructure design
-* [x] 276 0x10. HTTPS SSL
 * [x] 292 0x0A. Configuration management
 * [x] 244 0x0B. SSH
 * [x] 266 0x0C. Web server
 * [x] 265 0x0D. Web stack debugging #0
+* [x] 276 0x10. HTTPS SSL
 
 ## Developer
 Javier Andrés Garzón Patarroyo
