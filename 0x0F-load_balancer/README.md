@@ -12,7 +12,14 @@ For this project, you will need to write Bash scripts to automate your work. All
 
 ## Resources
 * [Load balancer](https://intranet.hbtn.io/concepts/46)
+  - [Load-balancing](https://www.thegeekstuff.com/2016/01/load-balancer-intro/)
+  - [Load-balancing algorithms](https://devcentral.f5.com/s/articles/intro-to-load-balancing-for-developers-ndash-the-algorithms)
 * [Web stack debugging](https://intranet.hbtn.io/concepts/68)
+  - [5 commands](https://www.linux.com/training-tutorials/first-5-commands-when-i-connect-linux-server/)
+  - [First 5 Commands When I Connect on a Linux Server](https://www.youtube.com/watch?v=1_gqlbADaAw&feature=youtu.be)
+    - [uptime and downtime](https://whatis.techtarget.com/definition/uptime-and-downtime)
+    - [Understanding Linux CPU Load](https://scoutapm.com/blog/understanding-load-averages)
+    - [Linux Load Averages](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
 * [redundancy](https://en.wikipedia.org/wiki/Redundancy_%28engineering%29)
 * [Introduction to load-balancing and HAproxy](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
 * [HTTP header](https://www.techopedia.com/definition/27178/http-header)
