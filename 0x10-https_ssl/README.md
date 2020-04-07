@@ -30,7 +30,7 @@ by _Sylvain Kalache_
 * [What are the 2 main elements that SSL is providing](https://www.sslshopper.com/why-ssl-the-purpose-of-using-ssl-certificates.html)
 * [HAProxy SSL termination on Ubuntu16.04](https://devops.ionos.com/tutorials/install-and-configure-haproxy-load-balancer-on-ubuntu-1604/)
 * [SSL termination](https://www.f5.com/services/resources/glossary/ssl-termination)
-* [SSL termination](https://en.wikipedia.org/wiki/TLS_termination_proxy)
+* [TLS termination](https://en.wikipedia.org/wiki/TLS_termination_proxy)
 * [Bash function](http://tldp.org/LDP/abs/html/complexfunct.html)
 * [0x07](https://intranet.hbtn.io/projects/259)
 * [SSL termination](https://en.wikipedia.org/wiki/TLS_termination_proxy)
