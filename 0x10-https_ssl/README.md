@@ -37,10 +37,10 @@ by _Sylvain Kalache_
 * [301](https://en.wikipedia.org/wiki/HTTP_301)
 
 ## Tasks
-* [] 0. HTTPS ABC
-* [] 1. World wide web
-* [] 2. HAproxy SSL termination
-* [] 3. No loophole in your website traffic
+* [x] 0. HTTPS ABC
+* [x] 1. World wide web
+* [x] 2. HAproxy SSL termination
+* [x] 3. No loophole in your website traffic
 
 ## Developer
 Javier Andrés Garzón Patarroyo
