@@ -26,7 +26,7 @@ At the end of this project, you are expected to be able to...
 * [x] 276 0x10. HTTPS SSL
 * [ ] 298 0x11. What happens when you type holbertonschool.com in your browser and press Enter
 * [x] 287 0x12. Web stack debugging #2
-* [ ] 284 0x13. Firewall
+* [x] 284 0x13. Firewall
 
 ## Developer
 Javier Andrés Garzón Patarroyo
