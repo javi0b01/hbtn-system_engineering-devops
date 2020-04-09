@@ -19,9 +19,9 @@ by _Sylvain Kalache_
     - [Linux Load Averages](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
 
 ## Tasks
-* [ ] 0. Run software as another user
-* [ ] 1. Run Nginx as Nginx
-* [ ] 2. 7 lines or less
+* [x] 0. Run software as another user
+* [x] 1. Run Nginx as Nginx
+* [x] 2. 7 lines or less
 
 ## Developer
 Javier Andrés Garzón Patarroyo
