@@ -17,9 +17,9 @@ by _Sylvain Kalache_
     - [Linux Load Averages](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
 
 ## Tasks
-* [ ] 0. Firewall ABC
-* [ ] 1. Block all incoming traffic but
-* [ ] 2. Port forwarding
+* [x] 0. Firewall ABC
+* [x] 1. Block all incoming traffic but
+* [x] 2. Port forwarding
 
 ## Developer
 Javier Andrés Garzón Patarroyo
