@@ -8,7 +8,7 @@ System engineering & DevOps
 At the end of this project, you are expected to be able to...
 - ...[explain to anyone](https://fs.blog/2012/04/feynman-technique/)
 
-## ...
+## Tasks
 * [x] 205 0x00. Shell, basics
 * [x] 207 0x01. Shell, permissions
 * [x] 208 0x02. Shell, I/O Redirections and filters
@@ -24,7 +24,7 @@ At the end of this project, you are expected to be able to...
 * [x] 266 0x0C. Web server
 * [x] 265 0x0D. Web stack debugging #0
 * [x] 276 0x10. HTTPS SSL
-* [ ] 298 0x11. What happens when you type holbertonschool.com in your browser and press Enter
+* [x] 298 0x11. What happens when you type holbertonschool.com in your browser and press Enter
 * [x] 287 0x12. Web stack debugging #2
 * [x] 284 0x13. Firewall
 
