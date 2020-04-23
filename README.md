@@ -27,6 +27,7 @@ At the end of this project, you are expected to be able to...
 * [x] 298 0x11. What happens when you type holbertonschool.com in your browser and press Enter
 * [x] 287 0x12. Web stack debugging #2
 * [x] 284 0x13. Firewall
+* [x] 280 0x14. Mysql
 
 ## Developer
 Javier Andrés Garzón Patarroyo
