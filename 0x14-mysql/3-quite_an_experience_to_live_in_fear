@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Task 3. Quite an experience to live in fear, isn't it?
+mysql -uroot -p
+CREATE USER IF NOT EXISTS "replica_user"@"%" IDENTIFIED BY "replica_user_pwd";
+GRANT REPLICATION SLAVE ON *.* TO "replica_user"@"%" IDENTIFIED BY "replica_user_pwd";
+GRANT SELECT ON mysql.user TO "holberton_user"@"localhost";
+exit
+mysql -uholberton_user -p -e 'SELECT user, Repl_slave_priv FROM mysql.user'
