@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Task 2. If only you could see what I've seen with your eyes
+mysql -uroot -p
+CREATE DATABASE IF NOT EXISTS tyrell_corp;
+USE tyrell_corp;
+CREATE TABLE IF NOT EXISTS nexus6 (id int PRIMARY KEY AUTO_INCREMENT, name varchar(255));
+INSERT INTO nexus6 (name) VALUES ("Leon");
+GRANT SELECT ON tyrell_corp.* TO 'holberton_user'@'localhost';
+FLUSH PRIVILEGES;
+exit
+mysql -uholberton_user -p -e "use tyrell_corp; select * from nexus6"
