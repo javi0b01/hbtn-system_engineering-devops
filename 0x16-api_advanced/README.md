@@ -15,7 +15,6 @@ by _Tim Britton_
 ## Resources
 * [Reddit API Documentation](https://www.reddit.com/dev/api/)
 * [Query String](https://en.wikipedia.org/wiki/Query_string)
-* [Reddit API](https://www.reddit.com/dev/api/)
 
 ## Tasks
 * [ ] 0. How many subs?
