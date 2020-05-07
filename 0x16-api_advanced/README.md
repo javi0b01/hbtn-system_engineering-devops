@@ -17,9 +17,9 @@ by _Tim Britton_
 * [Query String](https://en.wikipedia.org/wiki/Query_string)
 
 ## Tasks
-* [ ] 0. How many subs?
-* [ ] 1. Top Ten
-* [ ] 2. Recurse it!
+* [x] 0. How many subs?
+* [x] 1. Top Ten
+* [x] 2. Recurse it!
 * [ ] 3. Count it!
 
 ## Developer

@@ -29,7 +29,7 @@ At the end of this project, you are expected to be able to...
 * [x] 284 0x13. Firewall
 * [x] 280 0x14. Mysql
 * [x] 269 0x15. API
-* [ ] 314 0x16. API advanced
+* [x] 314 0x16. API advanced
 
 ## Developer
 Javier Andrés Garzón Patarroyo
