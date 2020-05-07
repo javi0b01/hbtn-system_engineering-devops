@@ -11,8 +11,8 @@ def recurse(subreddit, hot_list=[], after=None):
         source = "https://www.reddit.com/r/{}.json".format(subreddit)
         if after:
             source = source + "?after={}".format(after)
-        my_query = get(source, headers=headers,
-                   allow_redirects=False).json().get("data").get("children")
+        my_query = get(source, headers=headers, allow_redirects=False
+                       ).json().get("data").get("children")
         for title in my_query:
             hot_list.append(title.get("data").get("title"))
         after = get(source, headers=headers,
