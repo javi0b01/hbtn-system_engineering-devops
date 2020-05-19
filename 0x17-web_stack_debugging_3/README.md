@@ -32,6 +32,8 @@ The web stack you are debugging today is a Wordpress website running on a LAMP s
     - [Linux Load Averages](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
 * [actually powers 26% of the web](https://managewp.com/blog/statistics-about-wordpress-usage)
 * [webstackdebugging](https://www.youtube.com/watch?v=uHEzt1QuASo&feature=youtu.be)
+* [tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
+* [strace](https://strace.io/)
 
 ## Requirements
 ###### Install ```puppet-lint```
