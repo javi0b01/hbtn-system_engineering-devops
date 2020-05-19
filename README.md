@@ -1,14 +1,9 @@
 # Foundations
-System engineering & DevOps
+## System engineering & DevOps
+:copyright: **[Holberton School](https://www.holbertonschool.com/)**
 
-###### :copyright:
-**[Holberton School](https://www.holbertonschool.com/)**
-
-###### Global Objective
-At the end of this project, you are expected to be able to...
-- ...[explain to anyone](https://fs.blog/2012/04/feynman-technique/)
-
-## Tasks
+## Projects
+:open_file_folder:
 * [x] 205 0x00. Shell, basics
 * [x] 207 0x01. Shell, permissions
 * [x] 208 0x02. Shell, I/O Redirections and filters
@@ -30,9 +25,10 @@ At the end of this project, you are expected to be able to...
 * [x] 280 0x14. Mysql
 * [x] 269 0x15. API
 * [x] 314 0x16. API advanced
+* [ ] 293 0x17. Web stack debugging #3
 
 ## Developer
-Javier Andrés Garzón Patarroyo
-- [website](https://tecnoayuda.co/)
-
+Javier Andrés Garzón Patarroyo  
+:octocat: [GitHub](https://github.com/javierandresgp/)  
+:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
 :man_technologist: :books: :computer: :globe_with_meridians:
