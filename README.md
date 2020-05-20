@@ -25,7 +25,7 @@
 * [x] 280 0x14. Mysql
 * [x] 269 0x15. API
 * [x] 314 0x16. API advanced
-* [ ] 293 0x17. Web stack debugging #3
+* [x] 293 0x17. Web stack debugging #3
 
 ## Developer
 Javier Andrés Garzón Patarroyo  
