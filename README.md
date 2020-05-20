@@ -26,7 +26,7 @@
 * [x] 269 0x15. API
 * [x] 314 0x16. API advanced
 * [x] 293 0x17. Web stack debugging #3
-* [ ] 281 0x18. Webstack monitoring
+* [x] 281 0x18. Webstack monitoring
 
 ## Developer
 Javier Andrés Garzón Patarroyo  

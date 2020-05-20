@@ -1,6 +1,6 @@
 # 0x18. Webstack monitoring
-:open_file_folder: Foundations - System engineering & DevOps  Web stack
-:bust_in_silhouette: by Sylvain Kalache
+:open_file_folder: Foundations - System engineering & DevOps  Web stack  
+:bust_in_silhouette: by Sylvain Kalache  
 :copyright: **[Holberton School](https://www.holbertonschool.com/)**
 
 ## Background Context
@@ -44,12 +44,12 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * ```Shellcheck```
 
 ## Tasks
-* [ ] 0. Sign up for Datadog and install datadog-agent
-* [ ] 1. Monitor some metrics
-* [ ] 2. Create a dashboard
+* [x] 0. Sign up for Datadog and install datadog-agent
+* [x] 1. Monitor some metrics
+* [x] 2. Create a dashboard
 
 ## Developer
-Javier Andrés Garzón Patarroyo
-:octocat: [GitHub](https://github.com/javierandresgp/)
-:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)
+Javier Andrés Garzón Patarroyo  
+:octocat: [GitHub](https://github.com/javierandresgp/)  
+:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
 :man_technologist: :books: :computer: :globe_with_meridians:
