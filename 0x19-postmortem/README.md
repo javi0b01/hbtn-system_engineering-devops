@@ -1,6 +1,6 @@
 # 0x19. Postmortem
-:open_file_folder: Foundations - System engineering & DevOps  On call
-:bust_in_silhouette: by Sylvain Kalache
+:open_file_folder: Foundations - System engineering & DevOps  On call  
+:bust_in_silhouette: by Sylvain Kalache  
 :copyright: **[Holberton School](https://www.holbertonschool.com/)**
 
 ## Background Context
@@ -39,6 +39,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * Corrective and preventative measures must contain:
   - what are the things that can be improved/fixed (broadly speaking)
   - a list of tasks to address the issue (be very specific, like a TODO, example: patch Nginx server, add monitoring on server memory)
+
 Be brief and straight to the point, between 400 to 600 words
 
 ## Tasks
