@@ -27,6 +27,7 @@
 * [x] 314 0x16. API advanced
 * [x] 293 0x17. Web stack debugging #3
 * [x] 281 0x18. Webstack monitoring
+* [x] 294 0x19. Postmortem
 
 ## Developer
 Javier Andrés Garzón Patarroyo  
