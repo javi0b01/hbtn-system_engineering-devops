@@ -1,3 +1,5 @@
+$ python3 -m web_flask.0-hello_route
+$ curl 127.0.0.1:5000/airbnb-onepage/
 #!/usr/bin/python3
 """0. Set up development with Python"""
 from flask import Flask
