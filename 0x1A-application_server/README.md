@@ -52,10 +52,11 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Requirements
 ```Shellcheck```
+```Gunicorn```
 
 ## Tasks
-* [ ] 0. Set up development with Python
-* [ ] 1. Set up production with Gunicorn
+* [x] 0. Set up development with Python
+* [x] 1. Set up production with Gunicorn
 * [ ] 2. Serve a page with Nginx
 * [ ] 3. Add a route with query parameters
 * [ ] 4. Let's do this for your API
