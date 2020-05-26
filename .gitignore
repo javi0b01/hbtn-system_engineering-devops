@@ -1,5 +1,11 @@
 *~
 *#
+*.ds
+*.exe
 *.out
-__pycache__/
 *.pyc
+*.swp
+.DS_Store
+.vscode/
+__pycache__/
+.gitattributes/

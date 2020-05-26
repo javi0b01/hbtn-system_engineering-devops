@@ -1,6 +1,7 @@
 # Foundations
 ## System engineering & DevOps
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**
+:copyright:
+**[Holberton School](https://www.holbertonschool.com/)**
 
 ## Projects
 :open_file_folder:
@@ -28,9 +29,11 @@
 * [x] 293 0x17. Web stack debugging #3
 * [x] 281 0x18. Webstack monitoring
 * [x] 294 0x19. Postmortem
+* [ ] 311 0x1A. Application server
 
 ## Developer
 Javier Andrés Garzón Patarroyo  
 :octocat: [GitHub](https://github.com/javierandresgp/)  
 :link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
+:link: [Twitter](https://twitter.com/javierandresgp0)  
 :man_technologist: :books: :computer: :globe_with_meridians:
