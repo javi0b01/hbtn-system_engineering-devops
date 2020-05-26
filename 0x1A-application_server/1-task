@@ -1,0 +1,6 @@
+$ pip3 install gunicorn flask
+$ ufw allow 5000
+$ ufw allow 6000
+$ ufw status verbose
+$ gunicorn --bind 0.0.0.0:5000 web_flask.0-hello_route:app
+$ curl 127.0.0.1:5000/airbnb-onepage/
