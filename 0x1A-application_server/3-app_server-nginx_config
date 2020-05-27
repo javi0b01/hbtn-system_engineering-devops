@@ -1,0 +1,24 @@
+server {
+        listen 80 default_server;
+        listen [::]:80 ipv6only=on default_server;
+        root /var/www/html;
+        index index.html index.htm index.nginx-debian.html;
+        server_name _;
+        rewrite ^/redirect_me https://github.com/javierandresgp permanent;
+        error_page 404 /my404page.html;
+        location = /my404page.html {
+                root /usr/share/nginx/html;
+                internal;
+        }
+        location /airbnb-onepage/ {
+                include proxy_params;
+                proxy_pass http://0.0.0.0:5000/airbnb-onepage/;
+        }
+        location /airbnb-dynamic/number_odd_or_even/ {
+                include proxy_params;
+                proxy_pass http://0.0.0.0:5001/number_odd_or_even/;
+        }
+        location / {
+                try_files $uri $uri/ =404;
+        }
+}
