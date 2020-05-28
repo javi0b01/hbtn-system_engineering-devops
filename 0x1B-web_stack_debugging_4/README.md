@@ -23,8 +23,8 @@ $ gem install puppet-lint -v 2.1.1
 ```
 
 ## Tasks
-* [ ] 0. Sky is the limit, let's bring that limit higher
-* [ ] 1. User limit
+* [x] 0. Sky is the limit, let's bring that limit higher
+* [x] 1. User limit
 
 ## Developer
 Javier Andrés Garzón Patarroyo  
