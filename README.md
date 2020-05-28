@@ -30,6 +30,7 @@
 * [x] 281 0x18. Webstack monitoring
 * [x] 294 0x19. Postmortem
 * [ ] 311 0x1A. Application server
+* [ ] 313 0x1B. Web stack debugging #4
 
 ## Developer
 Javier Andrés Garzón Patarroyo  
