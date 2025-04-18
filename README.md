@@ -1,8 +1,5 @@
 # Foundations
 ## System engineering & DevOps
-:copyright:
-**[Holberton School](https://www.holbertonschool.com/)**
-
 ## Projects
 :open_file_folder:
 * [x] 205 0x00. Shell, basics
@@ -32,9 +29,6 @@
 * [ ] 311 0x1A. Application server
 * [x] 313 0x1B. Web stack debugging #4
 
-## Developer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)  
-:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
-:link: [Twitter](https://twitter.com/javierandresgp0)  
-:man_technologist: :books: :computer: :globe_with_meridians:
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2019 - 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
