@@ -57,5 +57,5 @@ In this project, some of the tasks will be graded on 2 aspects:
 * [x] 6. Install Nginx web server (w/ Puppet)
 
 ## Software Developer
-Built by [javi](https://github.com/javi0x00) :copyright: 2019 - 2020  
-Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
+Built by [Javi](https://github.com/javi0b01) :copyright: 2019 - 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0b01/).
